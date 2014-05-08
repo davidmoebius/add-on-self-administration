@@ -52,8 +52,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git://git@github.com:davidmoebius/addon-self-administration.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:davidmoebius/addon-self-administration.git</developerConnection>
+        <connection>scm:git:ssh://git@github.com/davidmoebius/addon-self-administration.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/davidmoebius/addon-self-administration.git</developerConnection>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
