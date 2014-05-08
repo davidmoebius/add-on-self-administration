@@ -52,8 +52,8 @@
     </properties>
 
     <scm>
-        <connection>scm:git://git@github.com:osiam/addon-self-administration.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:osiam/addon-self-administration.git</developerConnection>
+        <connection>scm:git://git@github.com:davidmoebius/addon-self-administration.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:davidmoebius/addon-self-administration.git</developerConnection>
     </scm>
 
     <build>
