@@ -51,6 +51,11 @@
         <org.osiam.connector4java.version>0.15</org.osiam.connector4java.version>
     </properties>
 
+    <scm>
+        <connection>scm:git://git@github.com:osiam/addon-self-administration.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:osiam/addon-self-administration.git</developerConnection>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
@@ -367,13 +372,13 @@
             <artifactId>mail</artifactId>
             <version>1.4.7</version>
         </dependency>
-        
+
         <dependency>
-			<groupId>org.hibernate</groupId>
-			<artifactId>hibernate-validator</artifactId>
-			<version>5.1.0.Final</version>
-		</dependency>
-		
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-validator</artifactId>
+            <version>5.1.0.Final</version>
+        </dependency>
+
     </dependencies>
 
     <profiles>
